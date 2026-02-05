@@ -58,10 +58,6 @@ A secure, context-aware chatbot capable of answering questions strictly based on
     *   Check **Sources** at the bottom of the response to see where information came from.
     *   Click **View Reasoning** to see the retrieval scores and the exact text chunks passed to the LLM.
 
-## 🛡️ Privacy Note
-
-While document parsing happens locally in the browser, text chunks are sent to the Google Gemini API to generate embeddings and final responses. Ensure you comply with your organization's data privacy policies regarding third-party API usage.
-
 ## 📄 License
 
 [MIT Licence](https://github.com/SatChittAnand/Enterprise-Intelligence-RAG-Bot/blob/main/LICENSE)
